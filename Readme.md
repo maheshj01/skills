@@ -8,6 +8,6 @@ Agent Skills are well defined prompts with examples and patterns your agent can 
 
 | Skill Name  | Description                                    |
 | ----------- | ---------------------------------------------- |
-| searchfield | A flutter package for autocomplete searchfield |
+| flutter-searchfield | A flutter package for autocomplete searchfield |
 | Skill 2     | Description                                    |
 | Skill 3     | Description                                    |
